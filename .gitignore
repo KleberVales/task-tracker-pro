@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 HELP.md
 .gradle
 build/
@@ -18,6 +19,17 @@ build/
 /.gradle/
 /!gradle-wrapper.jar
 
+=======
+# ----------------------------------------
+# Build tools (Maven / Gradle)
+# ----------------------------------------
+/target/
+/build/
+/out/
+/.gradle/
+/!gradle-wrapper.jar
+
+>>>>>>> 4ed0617b0b260fd938a6ee8953b39ea1343758ff
 # ----------------------------------------
 # IntelliJ IDEA
 # ----------------------------------------
@@ -33,7 +45,10 @@ build/
 .metadata/
 /bin/
 /.factorypath
+<<<<<<< HEAD
 >>>>>>> d115f6dc142fd532a68bb36d6482bb3f9c5af4fc
+=======
+>>>>>>> 4ed0617b0b260fd938a6ee8953b39ea1343758ff
 .classpath
 .project
 .settings/
@@ -42,6 +57,7 @@ build/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ### IntelliJ IDEA ###
 .idea
@@ -58,6 +74,11 @@ out/
 # NetBeans
 # ----------------------------------------
 >>>>>>> d115f6dc142fd532a68bb36d6482bb3f9c5af4fc
+=======
+# ----------------------------------------
+# NetBeans
+# ----------------------------------------
+>>>>>>> 4ed0617b0b260fd938a6ee8953b39ea1343758ff
 /nbproject/private/
 /nbbuild/
 /dist/
@@ -69,7 +90,10 @@ out/
 # ----------------------------------------
 .vscode/
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 4ed0617b0b260fd938a6ee8953b39ea1343758ff
 
 # ----------------------------------------
 # Mac OS
@@ -90,4 +114,7 @@ out/
 .env.local
 .settings.xml
 .settings-security.xml
+<<<<<<< HEAD
 >>>>>>> d115f6dc142fd532a68bb36d6482bb3f9c5af4fc
+=======
+>>>>>>> 4ed0617b0b260fd938a6ee8953b39ea1343758ff
