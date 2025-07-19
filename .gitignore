@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HELP.md
 .gradle
 build/
@@ -7,16 +8,41 @@ build/
 
 ### STS ###
 .apt_generated
+=======
+# ----------------------------------------
+# Build tools (Maven / Gradle)
+# ----------------------------------------
+/target/
+/build/
+/out/
+/.gradle/
+/!gradle-wrapper.jar
+
+# ----------------------------------------
+# IntelliJ IDEA
+# ----------------------------------------
+/.idea/
+/*.iml
+/out/
+/!**/src/main/**/out/
+/!**/src/test/**/out/
+
+# ----------------------------------------
+# Eclipse
+# ----------------------------------------
+.metadata/
+/bin/
+/.factorypath
+>>>>>>> d115f6dc142fd532a68bb36d6482bb3f9c5af4fc
 .classpath
-.factorypath
 .project
-.settings
-.springBeans
+.settings/
+/.springBeans
 .sts4-cache
-bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
+<<<<<<< HEAD
 ### IntelliJ IDEA ###
 .idea
 *.iws
@@ -27,11 +53,41 @@ out/
 !**/src/test/**/out/
 
 ### NetBeans ###
+=======
+# ----------------------------------------
+# NetBeans
+# ----------------------------------------
+>>>>>>> d115f6dc142fd532a68bb36d6482bb3f9c5af4fc
 /nbproject/private/
 /nbbuild/
 /dist/
 /nbdist/
 /.nb-gradle/
 
-### VS Code ###
+# ----------------------------------------
+# VS Code
+# ----------------------------------------
 .vscode/
+<<<<<<< HEAD
+=======
+
+# ----------------------------------------
+# Mac OS
+# ----------------------------------------
+.DS_Store
+
+# ----------------------------------------
+# Logs e arquivos temporários
+# ----------------------------------------
+*.log
+*.tmp
+*.swp
+
+# ----------------------------------------
+# Arquivos de credenciais e ambiente
+# ----------------------------------------
+.env
+.env.local
+.settings.xml
+.settings-security.xml
+>>>>>>> d115f6dc142fd532a68bb36d6482bb3f9c5af4fc
