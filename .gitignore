@@ -1,29 +1,65 @@
-### IntelliJ IDEA ###
-out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+# ----------------------------------------
+# Build tools (Maven / Gradle)
+# ----------------------------------------
+/target/
+/build/
+/out/
+/.gradle/
+/!gradle-wrapper.jar
 
-### Eclipse ###
-.apt_generated
+# ----------------------------------------
+# IntelliJ IDEA
+# ----------------------------------------
+/.idea/
+/*.iml
+/out/
+/!**/src/main/**/out/
+/!**/src/test/**/out/
+
+# ----------------------------------------
+# Eclipse
+# ----------------------------------------
+.metadata/
+/bin/
+/.factorypath
 .classpath
-.factorypath
 .project
-.settings
-.springBeans
+.settings/
+/.springBeans
 .sts4-cache
-bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
-### NetBeans ###
+# ----------------------------------------
+# NetBeans
+# ----------------------------------------
 /nbproject/private/
 /nbbuild/
 /dist/
 /nbdist/
 /.nb-gradle/
 
-### VS Code ###
+# ----------------------------------------
+# VS Code
+# ----------------------------------------
 .vscode/
 
-### Mac OS ###
+# ----------------------------------------
+# Mac OS
+# ----------------------------------------
 .DS_Store
+
+# ----------------------------------------
+# Logs e arquivos temporários
+# ----------------------------------------
+*.log
+*.tmp
+*.swp
+
+# ----------------------------------------
+# Arquivos de credenciais e ambiente
+# ----------------------------------------
+.env
+.env.local
+.settings.xml
+.settings-security.xml
