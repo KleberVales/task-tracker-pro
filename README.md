@@ -22,3 +22,5 @@ A modular task and project management platform built with Java 21, Spring Boot, 
 
 ## 📂 Project Structure
 
+## ✅ Etapas Concluídas do Projeto task-tracker-pro
+
