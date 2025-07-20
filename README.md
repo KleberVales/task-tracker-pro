@@ -25,10 +25,24 @@ A modular task and project management platform built with Java 21, Spring Boot, 
 ## ✅ Etapas Concluídas do Projeto task-tracker-pro
 
 1. Repository Creation and Initial Setup
-2. Java Environment and Gradle Configuration
+   - Created the public repository on GitHub: task-tracker-pro
+   - Initialized the project with Gradle and Spring Boot (version 3.5.3)
+   - Configured .gitignore across multiple IDEs (IntelliJ, Eclipse, VS Code, NetBeans)
+     
+2. Java Environment and Gradle Configuration3
+  
+     
 3. Tests and Database for the Development Environment
+    - Added H2 in memory for unit testing
+   - Created application.properties in src/test/resources to configure H2
+   - Fixed an error in contextLoads() of the AuthServiceApplicationTests class
+   - Run ./gradlew clean test successfully ✅
+     
 4. Folder Structure and Modularization
+   
 5. Version Management with Git
+   - Initiated semantic commits following convention (e.g., feat: initialize Auth Service with Spring Boot)
+   - Learned how to create messages that accurately reflect the action performed in the code
 
 ---
 
