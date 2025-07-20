@@ -24,9 +24,19 @@ A modular task and project management platform built with Java 21, Spring Boot, 
 
 ## ✅ Etapas Concluídas do Projeto task-tracker-pro
 
-1. Criação do Repositório e Setup Inicial
-2. Ambiente Java e Gradle Configurado
-3. Testes e Banco de Dados para Ambiente de Desenvolvimento
-4. Estrutura de Pastas e Modularização
-5. Gestão de Versionamento com Git
+1. Repository Creation and Initial Setup
+2. Java Environment and Gradle Configuration
+3. Tests and Database for the Development Environment
+4. Folder Structure and Modularization
+5. Version Management with Git
+
+---
+
+**Kleber Vales**  
+
+*Software Developer*  
+Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit | Hibernate  
+
+Bachelor's Degree in Computer Science  
+MBA in Web Software Development (Current)
 
