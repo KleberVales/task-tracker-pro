@@ -45,3 +45,20 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 * **DevOps:** Docker, Docker Compose, GitHub Actions (CI/CD)
 * **Monitoramento:** Prometheus, Grafana
 * **Logging:** ELK Stack (Elasticsearch, Logstash, Kibana)
+
+---
+
+## 📂 Estrutura do Projeto
+
+O repositório é organizado para facilitar a navegação e o desenvolvimento dos microserviços, com cada serviço residindo em seu próprio diretório.
+
+```
+├── auth-service/
+├── project-service/
+├── task-service/
+├── notification-service/ (opcional)
+├── api-gateway/
+└── docker-compose.yml
+└── ... (outros arquivos de configuração)
+
+```
