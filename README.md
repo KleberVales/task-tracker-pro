@@ -62,3 +62,24 @@ O repositório é organizado para facilitar a navegação e o desenvolvimento do
 └── ... (outros arquivos de configuração)
 
 ```
+
+---
+
+## ✅ Etapas Concluídas
+
+Até o momento, as seguintes etapas do projeto TaskTrackerPro foram finalizadas:
+
+1.  **Criação do Repositório e Configuração Inicial:**
+    * Repositório público `task-tracker-pro` criado no GitHub.
+    * Projeto inicializado com Gradle e Spring Boot (versão 3.5.3).
+    * Arquivo `.gitignore` configurado para múltiplas IDEs (IntelliJ, Eclipse, VS Code, NetBeans).
+2.  **Configuração do Ambiente Java e Gradle.**
+3.  **Testes e Banco de Dados para Ambiente de Desenvolvimento:**
+    * Adição do H2 em memória para testes unitários.
+    * Criação de `application.properties` em `src/test/resources` para configurar o H2.
+    * Correção de erro em `contextLoads()` da classe `AuthServiceApplicationTests`.
+    * Execução bem-sucedida de `./gradlew clean test` ✅.
+4.  **Estrutura de Pastas e Modularização** (especificar se houver algo notável).
+5.  **Gerenciamento de Versão com Git:**
+    * Iniciada a prática de commits semânticos seguindo convenções (ex: `feat: initialize Auth Service with Spring Boot`).
+    * Aprendizado sobre a criação de mensagens de commit que refletem com precisão a ação realizada no código.
