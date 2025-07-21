@@ -83,3 +83,35 @@ Até o momento, as seguintes etapas do projeto TaskTrackerPro foram finalizadas:
 5.  **Gerenciamento de Versão com Git:**
     * Iniciada a prática de commits semânticos seguindo convenções (ex: `feat: initialize Auth Service with Spring Boot`).
     * Aprendizado sobre a criação de mensagens de commit que refletem com precisão a ação realizada no código.
+  
+---
+
+## 🚀 Como Rodar o Projeto (Localmente)
+
+Para configurar e executar o TaskTrackerPro em sua máquina local, siga os passos abaixo:
+
+1.  **Pré-requisitos:**
+    * Java 21 JDK
+    * Docker e Docker Compose
+    * Gradle
+    * Sua IDE favorita (IntelliJ IDEA recomendado)
+2.  **Clone o Repositório:**
+    ```bash
+    git clone [https://github.com/KleberVales/task-tracker-pro.git](https://github.com/KleberVales/task-tracker-pro.git)
+    cd task-tracker-pro
+    ```
+3.  **Configure as Variáveis de Ambiente:**
+    * Crie um arquivo `.env` na raiz do projeto (ou nos diretórios de cada microserviço, se aplicável) com as configurações de banco de dados e outras variáveis sensíveis. (Ex: `DATABASE_URL=jdbc:postgresql://localhost:5432/tasktracker_db`).
+4.  **Construa os Microserviços:**
+    ```bash
+    ./gradlew clean build
+    ```
+5.  **Inicie os Serviços com Docker Compose:**
+    ```bash
+    docker-compose up --build
+    ```
+    Isso irá construir as imagens Docker (se necessário) e iniciar todos os serviços (PostgreSQL, MongoDB, microserviços, etc.).
+6.  **Acesse a API:**
+    * Uma vez que todos os serviços estejam rodando, a API estará acessível via o `api-gateway`. (Ex: `http://localhost:8080/api/v1/auth/register`).
+
+*Para mais detalhes sobre a configuração e uso de cada microserviço, consulte seus respectivos diretórios.*
