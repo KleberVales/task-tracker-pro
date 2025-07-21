@@ -32,3 +32,16 @@ O TaskTrackerPro é construído sobre uma arquitetura de microserviços, garanti
 | `task-service`     | Lida com o CRUD de tarefas, atualizações de status e comentários. |
 | `notification-service` | **[Opcional/Futuro]** Envia alertas via e-mail ou Slack. |
 | `api-gateway`      | Roteia requisições e gerencia a descoberta de serviços. |
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
+
+* **Backend:** Java 21, Spring Boot, Spring Data JPA, Spring Security
+* **Banco de Dados:** PostgreSQL (dados principais), MongoDB (auditoria/logs)
+* **Arquitetura:** Microservices, REST API, JWT Auth, API Gateway
+* **DevOps:** Docker, Docker Compose, GitHub Actions (CI/CD)
+* **Monitoramento:** Prometheus, Grafana
+* **Logging:** ELK Stack (Elasticsearch, Logstash, Kibana)
