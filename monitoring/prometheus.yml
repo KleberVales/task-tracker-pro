@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16
+    container_name: tasktracker-db
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_DB: tasktracker
+      POSTGRES_USER: kleber
+      POSTGRES_PASSWORD: secretpass
+    volumes:
+      - db_data:/var/lib/postgresql/data
+
+  auth-service:
+    build: ./auth-service
+    container_name: auth-service
+    ports:
+      - "8080:8080"
+    depends_on:
+      - postgres
+    env_file:
+      - .env
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/tasktracker
+      SPRING_DATASOURCE_USERNAME: ${POSTGRES_USER}
+      SPRING_DATASOURCE_PASSWORD: ${POSTGRES_PASSWORD}
+      JWT_SECRET: ${JWT_SECRET}
+
+volumes:
+  db_data:
