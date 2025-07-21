@@ -127,3 +127,9 @@ Contribuições são muito bem-vindas! Se você tiver ideias, melhorias ou encon
 3.  Faça suas alterações e commite-as (`git commit -m 'feat: adicione nova funcionalidade X'`).
 4.  Envie suas alterações (`git push origin feature/sua-feature`).
 5.  Abra um `Pull Request` detalhando suas modificações.
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
