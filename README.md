@@ -133,3 +133,18 @@ Contribuições são muito bem-vindas! Se você tiver ideias, melhorias ou encon
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+## ✉️ Contato
+
+Conecte-se comigo!
+
+**Kleber Vales**
+*Software Developer*
+[LinkedIn](https://www.linkedin.com/in/klebervales) | [GitHub](https://github.com/KleberVales)
+
+Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit | Hibernate
+
+Bacharelado em Ciência da Computação
+MBA em Desenvolvimento de Software Web (Cursando)
