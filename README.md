@@ -115,3 +115,15 @@ Para configurar e executar o TaskTrackerPro em sua máquina local, siga os passo
     * Uma vez que todos os serviços estejam rodando, a API estará acessível via o `api-gateway`. (Ex: `http://localhost:8080/api/v1/auth/register`).
 
 *Para mais detalhes sobre a configuração e uso de cada microserviço, consulte seus respectivos diretórios.*
+
+---
+
+## 👋 Como Contribuir
+
+Contribuições são muito bem-vindas! Se você tiver ideias, melhorias ou encontrar bugs, por favor:
+
+1.  Faça um `fork` do repositório.
+2.  Crie uma nova `branch` (`git checkout -b feature/sua-feature`).
+3.  Faça suas alterações e commite-as (`git commit -m 'feat: adicione nova funcionalidade X'`).
+4.  Envie suas alterações (`git push origin feature/sua-feature`).
+5.  Abra um `Pull Request` detalhando suas modificações.
