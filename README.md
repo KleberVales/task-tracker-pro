@@ -141,7 +141,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 Conecte-se comigo!
 
 **Kleber Vales**  
-
 *Desenvolvedor de Software*  
 [LinkedIn](https://www.linkedin.com/in/klebervales) | [GitHub](https://github.com/KleberVales)
 
