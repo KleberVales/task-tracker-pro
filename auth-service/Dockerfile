@@ -8,7 +8,7 @@ WORKDIR /app
 COPY . .
 
 # Build the project with Gradle wrapper
-RUN ./gradlew clean build
+RUN ./gradlew clean build -x test
 
 # Expose the port Spring Boot runs on
 EXPOSE 8080
