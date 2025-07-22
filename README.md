@@ -135,7 +135,7 @@ Contributions are highly welcome! If you have ideas, improvements, or find bugs,
 Connect with me!  [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin) | [GitHub](https://github.com/KleberVales) | [Upwork Profile](https://www.upwork.com/freelancers/~01eaf326ab44fba0e5)
 
 **Kleber Vales**\
-*Full Stack Java Developer*
+*Full Stack Java Engineer*
 
 Java | React | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit | Hibernate
 
