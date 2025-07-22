@@ -62,3 +62,24 @@ The repository is organized to facilitate navigation and development of the micr
 └── ... (other configuration files)
 
 ```
+
+---
+
+## ✅ Completed Project Stages
+
+To date, the following stages of the TaskTrackerPro project have been completed:
+
+1.  **Repository Creation and Initial Setup:**
+    * Public repository `task-tracker-pro` created on GitHub.
+    * Project initialized with Gradle and Spring Boot (version 3.5.3).
+    * `.gitignore` file configured for multiple IDEs (IntelliJ, Eclipse, VS Code, NetBeans).
+2.  **Java Environment and Gradle Configuration.**
+3.  **Tests and Database for Development Environment:**
+    * Added H2 in-memory for unit testing.
+    * Created `application.properties` in `src/test/resources` to configure H2.
+    * Fixed an error in `contextLoads()` of the `AuthServiceApplicationTests` class.
+    * Successfully ran `./gradlew clean test` ✅.
+4.  **Folder Structure and Modularization** (specify if there's anything noteworthy).
+5.  **Version Management with Git:**
+    * Initiated semantic commit practices following conventions (e.g., `feat: initialize Auth Service with Spring Boot`).
+    * Learned how to create commit messages that accurately reflect the action performed in the code.
