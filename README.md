@@ -18,3 +18,17 @@ TaskTrackerPro is a robust and scalable **task and project management platform**
 * **Notifications (Optional):** Integrated alerting system for email or Slack (under development/future).
 * **RESTful API:** Clear and standardized communication between services.
 * **API Gateway:** Intelligent request routing and service discovery.
+
+---
+
+## 🧱 Microservices Architecture Overview
+
+TaskTrackerPro is built on a microservices architecture, ensuring **scalability, resilience, and ease of maintenance**. Each service is autonomous and focused on a specific responsibility, communicating via RESTful APIs.
+
+| Service            | Description                                         |
+| :----------------- | :------------------------------------------------ |
+| `auth-service`     | Handles user registration, login, and JWT authentication. |
+| `project-service`  | Manages project CRUD and user assignment.           |
+| `task-service`     | Handles task CRUD, status updates, and comments.    |
+| `notification-service` | **[Optional/Future]** Sends alerts via email or Slack. |
+| `api-gateway`      | Routes requests and handles service discovery.      |
