@@ -1,1 +1,2 @@
-rootProject.name = 'demo'
+rootProject.name = 'task-tracker-pro'
+include 'auth-service', 'project-service'  // e futuros 'task-service', etc.

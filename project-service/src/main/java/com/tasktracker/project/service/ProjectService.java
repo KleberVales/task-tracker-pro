@@ -9,5 +9,5 @@ public interface ProjectService {
     Optional<Project> findById(Long id);
     Project create(Project project);
     Project update(Long id, Project project);
-    void delete(Long id);
+    void delete(Long id);  // esse método precisa ser implementado
 }
