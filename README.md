@@ -136,7 +136,7 @@ Connect with me!
 
 **Kleber Vales**
 *Software Developer*
-[LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin) | [GitHub](https://github.com/KleberVales) | [Upwork Profile](https://www.upwork.com/freelancers/~0123456789abcdef) (Replace with your actual Upwork profile link)
+[LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin) | [GitHub](https://github.com/KleberVales) | [Upwork Profile](https://www.upwork.com/freelancers/~01eaf326ab44fba0e5) 
 
 Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit | Hibernate
 
