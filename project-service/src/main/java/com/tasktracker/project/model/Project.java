@@ -16,4 +16,3 @@ public class Project {
     private String description;
     private LocalDate dueDate;
 }
-excluded
