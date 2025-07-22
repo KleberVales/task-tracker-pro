@@ -132,11 +132,10 @@ Contributions are highly welcome! If you have ideas, improvements, or find bugs,
 
 ## ✉️ Contact
 
-Connect with me!
+Connect with me!  [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin) | [GitHub](https://github.com/KleberVales) | [Upwork Profile](https://www.upwork.com/freelancers/~01eaf326ab44fba0e5)
 
 **Kleber Vales**
 *Software Developer*
-[LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin) | [GitHub](https://github.com/KleberVales) | [Upwork Profile](https://www.upwork.com/freelancers/~01eaf326ab44fba0e5) 
 
 Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit | Hibernate
 
