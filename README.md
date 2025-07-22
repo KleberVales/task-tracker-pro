@@ -137,7 +137,7 @@ Connect with me!  [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin) | 
 **Kleber Vales**\
 *Software Developer*
 
-Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit | Hibernate
+Java | React | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit | Hibernate
 
-Bachelor's Degree in Computer Science
+Bachelor's Degree in Computer Science\
 MBA in Web Software Development (Currently Pursuing)
