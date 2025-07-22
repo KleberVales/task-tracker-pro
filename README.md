@@ -115,3 +115,30 @@ To set up and run TaskTrackerPro on your local machine, follow these steps:
     * Once all services are running, the API will be accessible via the `api-gateway`. (e.g., `http://localhost:8080/api/v1/auth/register`).
 
 *For more details on configuring and using each microservice, refer to their respective directories.*
+
+---
+
+## 👋 How to Contribute
+
+Contributions are highly welcome! If you have ideas, improvements, or find bugs, please:
+
+1.  Fork the repository.
+2.  Create a new branch (`git checkout -b feature/your-feature`).
+3.  Make your changes and commit them (`git commit -m 'feat: add new feature X'`).
+4.  Push your changes (`git push origin feature/your-feature`).
+5.  Open a Pull Request detailing your modifications.
+
+---
+
+## ✉️ Contact
+
+Connect with me!
+
+**Kleber Vales**
+*Software Developer*
+[LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin) | [GitHub](https://github.com/KleberVales) | [Upwork Profile](https://www.upwork.com/freelancers/~0123456789abcdef) (Replace with your actual Upwork profile link)
+
+Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit | Hibernate
+
+Bachelor's Degree in Computer Science
+MBA in Web Software Development (Currently Pursuing)
