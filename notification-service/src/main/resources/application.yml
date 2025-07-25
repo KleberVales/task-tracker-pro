@@ -1,0 +1,21 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: seu-email@gmail.com
+    password: sua-senha-ou-app-password
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+    mode: HTML
+    cache: false
+
+server:
+  port: 8080

@@ -1,0 +1,3 @@
+com\tasktracker\notification\service\EmailService.class
+com\tasktracker\notification\NotificationServiceApplication.class
+com\tasktracker\notification\controller\NotificationController.class
