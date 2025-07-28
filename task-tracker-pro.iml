@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/project-service/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task-service/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/notification-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/api-gateway/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
