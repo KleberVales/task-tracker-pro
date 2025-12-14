@@ -140,4 +140,4 @@ Connect with me!  [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin) | 
 Cloud | DevOps | Git/GitHub | Scrum | JUnit 5 | Hibernate
 
 Bachelor's Degree in Computer Science\
-MBA in Web Software Development (Currently Pursuing)
+MBA in Web Software Development 
