@@ -135,7 +135,7 @@ Contributions are highly welcome! If you have ideas, improvements, or find bugs,
 Connect with me!  [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin) | [GitHub](https://github.com/KleberVales) |
 
 **Kleber Vales**\
-*Back-end Software Engineer*
+*Java & Spring Software Engineer*
 
 Java + Spring | Cloud & DevOps | Git & GitHub | Scrum | JUnit 5 | Hibernate
 
