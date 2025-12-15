@@ -140,13 +140,13 @@ Connect with me!  [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin) | 
 
 Cloud | DevOps | Git/GitHub | Scrum | JUnit 5 | Hibernate
 
-🏆Oracle Certified Associate - Java SE 7 Programmer
+🏆 Oracle Certified Associate - Java SE 7 Programmer
 
-🏆Microsoft Technology Associate - Software Development Fundamentals
+🏆 Microsoft Technology Associate - Software Development Fundamentals
 
-🏆Scrum Fundamentals Certified (SFC™)
+🏆 Scrum Fundamentals Certified (SFC™)
 
-Oracle Clould Infrastructure 2025 - DevOps Professional
+🏆 Oracle Clould Infrastructure 2025 - DevOps Professional
 
 Oracle Cloud Infrastructure 2025 - Generative AI Professional
 
