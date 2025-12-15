@@ -132,7 +132,7 @@ Contributions are highly welcome! If you have ideas, improvements, or find bugs,
 
 ## ✉️ Contact
 
-Connect with me!  [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin) | [GitHub](https://github.com/KleberVales) |
+Connect with me!  [LinkedIn](https://www.linkedin.com/in/kleber-vales/) | [GitHub](https://github.com/KleberVales) |
 
 **Kleber Vales**
 
