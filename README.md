@@ -146,5 +146,7 @@ Microsoft Technology Associate - Software Developer Fundamentals
 
 Scrum Fundamentals Certified (SFC™)
 
+Oracle Clould Infrastructure 2025 - DevOps Professional
+
 Bachelor's Degree in Computer Science\
 MBA in Web Software Development 
