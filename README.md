@@ -144,5 +144,7 @@ Oracle Certified Associate - Java SE 7 Programmer
 
 Microsoft Technology Associate - Software Developer Fundamentals 
 
+Scrum Fundamentals Certified (SFC™)
+
 Bachelor's Degree in Computer Science\
 MBA in Web Software Development 
